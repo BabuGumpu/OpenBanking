@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="8hPYpoy29QvJLhydvdne">
-    <mxGraphModel dx="2054" dy="1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="2880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,34 @@
           <mxGeometry height="140" width="200" x="710" y="590" as="geometry" />
         </mxCell>
         <mxCell id="9G-yNL_N7KnN4SGlkKjr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="Hybrid Integration Platform (HIP)" vertex="1">
-          <mxGeometry height="140" width="200" x="1770" y="220" as="geometry" />
+          <mxGeometry height="140" width="200" x="1760" y="240" as="geometry" />
         </mxCell>
         <mxCell id="9G-yNL_N7KnN4SGlkKjr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="Enterprise Service Bus (ESBS)" vertex="1">
           <mxGeometry height="140" width="200" x="1010" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="Support Data Warehouse 1" vertex="1">
+          <mxGeometry height="140" width="200" x="1040" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="Support Data Warehouse 2" vertex="1">
+          <mxGeometry height="140" width="200" x="1770" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="Army Data Warehouse" vertex="1">
+          <mxGeometry height="140" width="200" x="1780" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="DEEAMS" vertex="1">
+          <mxGeometry height="140" width="200" x="1770" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="DLIS" vertex="1">
+          <mxGeometry height="140" width="200" x="2400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="PALANTIR" vertex="1">
+          <mxGeometry height="140" width="200" x="2080" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-10" edge="1" parent="1" source="9G-yNL_N7KnN4SGlkKjr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9G-yNL_N7KnN4SGlkKjr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9G-yNL_N7KnN4SGlkKjr-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Verdana;fontSize=16;" value="MJDI APIs" vertex="1">
+          <mxGeometry height="140" width="200" x="1430" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
